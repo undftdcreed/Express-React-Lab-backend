@@ -1,14 +1,24 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "2048",
+      "live": "https://undftdcreed.github.io/2048/",
+      "git": "https://github.com/undftdcreed/2048"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "2nds",
+      "live": "https://project-2-405j.onrender.com/",
+      "git": "https://github.com/undftdcreed/Project-2"
+    },
+    {
+      "name": "Do you pay the one?",
+      "live": "https://doyoupaytheone.netlify.app/",
+      "git": "https://github.com/undftdcreed/Do-You-Pay-the-1-"
+    },
+    {
+      "name": "SnapShoot",
+      "live": "https://snapshoot-fobr.onrender.com/",
+      "git": "https://github.com/undftdcreed/SnapShoot"
     }
   ]
+
+  
